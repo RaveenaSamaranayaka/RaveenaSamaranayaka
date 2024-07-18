@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Software Quality Engineer and UI/UX Engineer from Sri Lanka</h3>
 
 <!-- About Me Section -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=[YourUsername]&label=Profile%20views&color=0e75b6&style=flat" alt="RaveenaSamaranayaka" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RaveenaSamaranayaka&label=Profile%20views&color=0e75b6&style=flat" alt="RaveenaSamaranayaka" /> </p>
 
 - 🔭 I’m currently working on **Research using Deep learining**
 
@@ -20,7 +20,7 @@
 <!-- Connect with me -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/RaveenaSamaranayaka" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="[YourLinkedIn]" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/RaveenaSamaranayaka" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Raveena Samaranayaka" height="30" width="40" /></a>
 </p>
 
 <!-- Languages and Tools -->
