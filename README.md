@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Computer Studies Related Subjects**
 
-- 👯 I’m looking to collaborate on **Software Quality Assurance**
+- 👯 I’m looking to collaborate on **Business Analysis**
 
-- 🤝 I’m looking for help with **an INTERN OPPORTUNITY**
+- 🤝 I’m looking for help with **an ASSOCIATE OPPORTUNITY**
 
 - 💬 Ask me about **my commitments**
 
