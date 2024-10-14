@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Raveena Samaranayaka</h1>
-<h3 align="center">A passionate Software Quality Engineer and UI/UX Engineer from Sri Lanka</h3>
+<h3 align="center">A passionate Business Analyst and Graphic Designer from Sri Lanka</h3>
 
 <!-- About Me Section -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RaveenaSamaranayaka&label=Profile%20views&color=0e75b6&style=flat" alt="RaveenaSamaranayaka" /> </p>
